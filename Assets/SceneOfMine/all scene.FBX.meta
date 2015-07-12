@@ -1,0 +1,1859 @@
+fileFormatVersion: 2
+guid: 4d5024d2d44c83247bcabd53f11def75
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 1
+    100002: 2
+    100004: //RootNode
+    100006: arrow1
+    100008: bing_01
+    100010: bing_01 1
+    100012: bing_01 2
+    100014: bing_01 3
+    100016: build
+    100018: build_01
+    100020: build_01 1
+    100022: build_01 2
+    100024: build_01 3
+    100026: build_01 4
+    100028: build_01 5
+    100030: build_02
+    100032: build_02 1
+    100034: build_03
+    100036: c
+    100038: caodi_01
+    100040: ch_pc_hou_007_jiao
+    100042: ch_pc_hou_007_shen
+    100044: ch_pc_hou_007_shou
+    100046: ch_pc_hou_007_tou
+    100048: ch_pc_hu_005_jiao
+    100050: ch_pc_hu_005_jiao 1
+    100052: ch_pc_hu_006_jiao
+    100054: ch_pc_hu_006_shen
+    100056: ch_pc_hu_006_shou
+    100058: ch_pc_hu_006_tou
+    100060: ch_pc_niu_008_shen
+    100062: ch_pc_niu_008_shou
+    100064: ch_pc_niu_008_tou
+    100066: ch_pc_niu_008_tui
+    100068: ch_pc_tu_001_jiao
+    100070: ch_pc_tu_001_jiao1
+    100072: ch_pc_tu_001_shen
+    100074: ch_pc_tu_001_shen1
+    100076: ch_pc_tu_001_shou
+    100078: ch_pc_tu_001_shou1
+    100080: ch_pc_tu_001_tou
+    100082: ch_pc_tu_001_tou1
+    100084: ch_pc_tu_006_jiao
+    100086: ch_pc_tu_006_shen
+    100088: ch_pc_tu_006_shou
+    100090: ch_pc_tu_006_tou
+    100092: ch_we_one_hou_007
+    100094: ch_we_one_hu_006
+    100096: ch_we_one_tu_001
+    100098: ch_we_one_tu_0012
+    100100: ch_we_one_tu_006
+    100102: ch_we_two_niu_008
+    100104: ch_we_two_niu_008 1
+    100106: diaoqiao_01
+    100108: diaoxiang
+    100110: ding_01
+    100112: fengche_01
+    100114: fengche_01 1
+    100116: fengche_01 2
+    100118: fengche_01 3
+    100120: floor
+    100122: floor 1
+    100124: floor 2
+    100126: floor 3
+    100128: floor_01
+    100130: floor_01 1
+    100132: floor_01 10
+    100134: floor_01 11
+    100136: floor_01 12
+    100138: floor_01 13
+    100140: floor_01 14
+    100142: floor_01 15
+    100144: floor_01 16
+    100146: floor_01 17
+    100148: floor_01 18
+    100150: floor_01 19
+    100152: floor_01 2
+    100154: floor_01 20
+    100156: floor_01 3
+    100158: floor_01 4
+    100160: floor_01 5
+    100162: floor_01 6
+    100164: floor_01 7
+    100166: floor_01 8
+    100168: floor_01 9
+    100170: floor_02
+    100172: floor_02 1
+    100174: floor_02 10
+    100176: floor_02 2
+    100178: floor_02 3
+    100180: floor_02 4
+    100182: floor_02 5
+    100184: floor_02 6
+    100186: floor_02 7
+    100188: floor_02 8
+    100190: floor_02 9
+    100192: floor_03
+    100194: floor_03 1
+    100196: floor_03 2
+    100198: floor_03 3
+    100200: floor_03 4
+    100202: floor_03 5
+    100204: floor_03 6
+    100206: floor_04
+    100208: fx_hu_jn_hgqs_mian01
+    100210: fx_hu_jn_hgqs_mian01 1
+    100212: fx_niu_pt_attack1_mian1
+    100214: fx_niu_pt_attack1_mian1 1
+    100216: fx_niu_pt_attack1_mian2
+    100218: fx_niu_pt_attack1_mian2 1
+    100220: fx_niu_pt_attack1_mian4
+    100222: fx_niu_pt_attack1_mian4 1
+    100224: gu
+    100226: gu_01
+    100228: gu_01 1
+    100230: huangding_01
+    100232: pi_01
+    100234: pi_01 1
+    100236: pi_01 2
+    100238: pi_01 3
+    100240: pi_01 4
+    100242: pi_01 5
+    100244: polySurface1
+    100246: polySurface1 1
+    100248: polySurface1 2
+    100250: polySurface1 3
+    100252: polySurface1 4
+    100254: polySurface1 5
+    100256: polySurface1 6
+    100258: polySurface6
+    100260: polySurface6 1
+    100262: polySurface6 10
+    100264: polySurface6 11
+    100266: polySurface6 12
+    100268: polySurface6 13
+    100270: polySurface6 14
+    100272: polySurface6 15
+    100274: polySurface6 16
+    100276: polySurface6 2
+    100278: polySurface6 3
+    100280: polySurface6 4
+    100282: polySurface6 5
+    100284: polySurface6 6
+    100286: polySurface6 7
+    100288: polySurface6 8
+    100290: polySurface6 9
+    100292: polySurface722
+    100294: polySurface722 1
+    100296: polySurface722 2
+    100298: polySurface722 3
+    100300: polySurface722 4
+    100302: polySurface722 5
+    100304: polySurface732
+    100306: polySurface733
+    100308: prop
+    100310: prop 1
+    100312: prop_01
+    100314: prop_01 1
+    100316: prop_01 10
+    100318: prop_01 11
+    100320: prop_01 12
+    100322: prop_01 2
+    100324: prop_01 3
+    100326: prop_01 4
+    100328: prop_01 5
+    100330: prop_01 6
+    100332: prop_01 7
+    100334: prop_01 8
+    100336: prop_01 9
+    100338: prop_02
+    100340: prop_02 1
+    100342: prop_02 2
+    100344: prop_02 3
+    100346: prop_02 4
+    100348: prop_02 5
+    100350: prop_02 6
+    100352: prop_02 7
+    100354: prop_02 8
+    100356: prop_03
+    100358: prop_03 1
+    100360: prop_03 2
+    100362: prop_03 3
+    100364: prpo_01
+    100366: prpo_01 1
+    100368: prpo_02
+    100370: prpo_03
+    100372: qi
+    100374: qi 1
+    100376: qi 2
+    100378: qi 3
+    100380: qi 4
+    100382: qi 5
+    100384: rock
+    100386: rock_01
+    100388: rock_01 1
+    100390: rock_01 10
+    100392: rock_01 11
+    100394: rock_01 12
+    100396: rock_01 13
+    100398: rock_01 14
+    100400: rock_01 15
+    100402: rock_01 16
+    100404: rock_01 17
+    100406: rock_01 18
+    100408: rock_01 19
+    100410: rock_01 2
+    100412: rock_01 20
+    100414: rock_01 3
+    100416: rock_01 4
+    100418: rock_01 5
+    100420: rock_01 6
+    100422: rock_01 7
+    100424: rock_01 8
+    100426: rock_01 9
+    100428: rock_02
+    100430: rock_02 1
+    100432: rock_02 10
+    100434: rock_02 11
+    100436: rock_02 12
+    100438: rock_02 13
+    100440: rock_02 14
+    100442: rock_02 15
+    100444: rock_02 16
+    100446: rock_02 17
+    100448: rock_02 18
+    100450: rock_02 2
+    100452: rock_02 3
+    100454: rock_02 4
+    100456: rock_02 5
+    100458: rock_02 6
+    100460: rock_02 7
+    100462: rock_02 8
+    100464: rock_02 9
+    100466: rock_03
+    100468: rock_03 1
+    100470: rock_03 10
+    100472: rock_03 11
+    100474: rock_03 12
+    100476: rock_03 13
+    100478: rock_03 14
+    100480: rock_03 2
+    100482: rock_03 3
+    100484: rock_03 4
+    100486: rock_03 5
+    100488: rock_03 6
+    100490: rock_03 7
+    100492: rock_03 8
+    100494: rock_03 9
+    100496: rockbulid_01
+    100498: sha
+    100500: sha 1
+    100502: sha 2
+    100504: sha 3
+    100506: sha 4
+    100508: sha 5
+    100510: shu_01
+    100512: shu_01 1
+    100514: shu_01 2
+    100516: shu_02
+    100518: shu_02 1
+    100520: shu_02 2
+    100522: shuye_01
+    100524: shuye_01 1
+    100526: shuye_01 2
+    100528: shuye_01 3
+    100530: shuye_01 4
+    100532: shuye_01 5
+    100534: shuye_01 6
+    100536: shuye_01 7
+    100538: shuye_01 8
+    100540: shuye_01 9
+    100542: shuye_02
+    100544: shuye_02 1
+    100546: shuye_02 2
+    100548: shuye_02 3
+    100550: sky
+    100552: sky 1
+    100554: sky 2
+    100556: sky_01
+    100558: snow_01
+    100560: snow_01 1
+    100562: snow_01 2
+    100564: snow_01 3
+    100566: snow_01 4
+    100568: snow_01 5
+    100570: snow_02
+    100572: snow_02 1
+    100574: snow_02 2
+    100576: snow_02 3
+    100578: snow_02 4
+    100580: snow_02 5
+    100582: taijie_01
+    100584: texiao
+    100586: texiao 1
+    100588: texiao 2
+    100590: texiao 3
+    100592: texiao 4
+    100594: texiao 5
+    100596: wall_01
+    100598: wood_01
+    100600: wood_02
+    100602: xianrenzhang_01
+    100604: xianrenzhang_01 1
+    100606: xianrenzhang_01 2
+    100608: xianrenzhang_01 3
+    100610: xianrenzhang_01 4
+    100612: xianrenzhang_01 5
+    100614: yezi_01
+    100616: zhiwu
+    100618: zhiwu_01
+    100620: zhiwu_01 1
+    100622: zhiwu_01 10
+    100624: zhiwu_01 11
+    100626: zhiwu_01 2
+    100628: zhiwu_01 3
+    100630: zhiwu_01 4
+    100632: zhiwu_01 5
+    100634: zhiwu_01 6
+    100636: zhiwu_01 7
+    100638: zhiwu_01 8
+    100640: zhiwu_01 9
+    100642: zhiwu_02
+    100644: zhiwu_02 1
+    100646: zhiwu_02 2
+    100648: zhiwu_02 3
+    100650: zhiwu_02 4
+    100652: zhiwu_02 5
+    100654: zhiwu_02 6
+    100656: zhiwu_02 7
+    100658: zhiwu_03
+    100660: zhiwu_03 1
+    100662: zhiwu_03 2
+    100664: zhiwu_03 3
+    100666: zhizhuwang_01
+    100668: zhizhuwang_01 1
+    100670: zhizhuwang_01 2
+    100672: zhizhuwang_01 3
+    100674: zhizhuwang_02
+    100676: zhizhuwang_02 1
+    100678: zhizhuwang_02 2
+    100680: zhuanpan
+    100682: zhuanpan 1
+    100684: zhuanpan 10
+    100686: zhuanpan 11
+    100688: zhuanpan 12
+    100690: zhuanpan 13
+    100692: zhuanpan 2
+    100694: zhuanpan 3
+    100696: zhuanpan 4
+    100698: zhuanpan 5
+    100700: zhuanpan 6
+    100702: zhuanpan 7
+    100704: zhuanpan 8
+    100706: zhuanpan 9
+    100708: zhuanpan_01
+    100710: zhuanpan_01 1
+    100712: zhuanpan_02
+    100714: zhuanpan_02 1
+    100716: zhuwu_01
+    100718: zhuwu_01 1
+    100720: zhuwu_02
+    100722: zhuwu_02 1
+    100724: zhuzi_01
+    400000: 1
+    400002: 2
+    400004: //RootNode
+    400006: arrow1
+    400008: bing_01
+    400010: bing_01 1
+    400012: bing_01 2
+    400014: bing_01 3
+    400016: build
+    400018: build_01
+    400020: build_01 1
+    400022: build_01 2
+    400024: build_01 3
+    400026: build_01 4
+    400028: build_01 5
+    400030: build_02
+    400032: build_02 1
+    400034: build_03
+    400036: c
+    400038: caodi_01
+    400040: ch_pc_hou_007_jiao
+    400042: ch_pc_hou_007_shen
+    400044: ch_pc_hou_007_shou
+    400046: ch_pc_hou_007_tou
+    400048: ch_pc_hu_005_jiao
+    400050: ch_pc_hu_005_jiao 1
+    400052: ch_pc_hu_006_jiao
+    400054: ch_pc_hu_006_shen
+    400056: ch_pc_hu_006_shou
+    400058: ch_pc_hu_006_tou
+    400060: ch_pc_niu_008_shen
+    400062: ch_pc_niu_008_shou
+    400064: ch_pc_niu_008_tou
+    400066: ch_pc_niu_008_tui
+    400068: ch_pc_tu_001_jiao
+    400070: ch_pc_tu_001_jiao1
+    400072: ch_pc_tu_001_shen
+    400074: ch_pc_tu_001_shen1
+    400076: ch_pc_tu_001_shou
+    400078: ch_pc_tu_001_shou1
+    400080: ch_pc_tu_001_tou
+    400082: ch_pc_tu_001_tou1
+    400084: ch_pc_tu_006_jiao
+    400086: ch_pc_tu_006_shen
+    400088: ch_pc_tu_006_shou
+    400090: ch_pc_tu_006_tou
+    400092: ch_we_one_hou_007
+    400094: ch_we_one_hu_006
+    400096: ch_we_one_tu_001
+    400098: ch_we_one_tu_0012
+    400100: ch_we_one_tu_006
+    400102: ch_we_two_niu_008
+    400104: ch_we_two_niu_008 1
+    400106: diaoqiao_01
+    400108: diaoxiang
+    400110: ding_01
+    400112: fengche_01
+    400114: fengche_01 1
+    400116: fengche_01 2
+    400118: fengche_01 3
+    400120: floor
+    400122: floor 1
+    400124: floor 2
+    400126: floor 3
+    400128: floor_01
+    400130: floor_01 1
+    400132: floor_01 10
+    400134: floor_01 11
+    400136: floor_01 12
+    400138: floor_01 13
+    400140: floor_01 14
+    400142: floor_01 15
+    400144: floor_01 16
+    400146: floor_01 17
+    400148: floor_01 18
+    400150: floor_01 19
+    400152: floor_01 2
+    400154: floor_01 20
+    400156: floor_01 3
+    400158: floor_01 4
+    400160: floor_01 5
+    400162: floor_01 6
+    400164: floor_01 7
+    400166: floor_01 8
+    400168: floor_01 9
+    400170: floor_02
+    400172: floor_02 1
+    400174: floor_02 10
+    400176: floor_02 2
+    400178: floor_02 3
+    400180: floor_02 4
+    400182: floor_02 5
+    400184: floor_02 6
+    400186: floor_02 7
+    400188: floor_02 8
+    400190: floor_02 9
+    400192: floor_03
+    400194: floor_03 1
+    400196: floor_03 2
+    400198: floor_03 3
+    400200: floor_03 4
+    400202: floor_03 5
+    400204: floor_03 6
+    400206: floor_04
+    400208: fx_hu_jn_hgqs_mian01
+    400210: fx_hu_jn_hgqs_mian01 1
+    400212: fx_niu_pt_attack1_mian1
+    400214: fx_niu_pt_attack1_mian1 1
+    400216: fx_niu_pt_attack1_mian2
+    400218: fx_niu_pt_attack1_mian2 1
+    400220: fx_niu_pt_attack1_mian4
+    400222: fx_niu_pt_attack1_mian4 1
+    400224: gu
+    400226: gu_01
+    400228: gu_01 1
+    400230: huangding_01
+    400232: pi_01
+    400234: pi_01 1
+    400236: pi_01 2
+    400238: pi_01 3
+    400240: pi_01 4
+    400242: pi_01 5
+    400244: polySurface1
+    400246: polySurface1 1
+    400248: polySurface1 2
+    400250: polySurface1 3
+    400252: polySurface1 4
+    400254: polySurface1 5
+    400256: polySurface1 6
+    400258: polySurface6
+    400260: polySurface6 1
+    400262: polySurface6 10
+    400264: polySurface6 11
+    400266: polySurface6 12
+    400268: polySurface6 13
+    400270: polySurface6 14
+    400272: polySurface6 15
+    400274: polySurface6 16
+    400276: polySurface6 2
+    400278: polySurface6 3
+    400280: polySurface6 4
+    400282: polySurface6 5
+    400284: polySurface6 6
+    400286: polySurface6 7
+    400288: polySurface6 8
+    400290: polySurface6 9
+    400292: polySurface722
+    400294: polySurface722 1
+    400296: polySurface722 2
+    400298: polySurface722 3
+    400300: polySurface722 4
+    400302: polySurface722 5
+    400304: polySurface732
+    400306: polySurface733
+    400308: prop
+    400310: prop 1
+    400312: prop_01
+    400314: prop_01 1
+    400316: prop_01 10
+    400318: prop_01 11
+    400320: prop_01 12
+    400322: prop_01 2
+    400324: prop_01 3
+    400326: prop_01 4
+    400328: prop_01 5
+    400330: prop_01 6
+    400332: prop_01 7
+    400334: prop_01 8
+    400336: prop_01 9
+    400338: prop_02
+    400340: prop_02 1
+    400342: prop_02 2
+    400344: prop_02 3
+    400346: prop_02 4
+    400348: prop_02 5
+    400350: prop_02 6
+    400352: prop_02 7
+    400354: prop_02 8
+    400356: prop_03
+    400358: prop_03 1
+    400360: prop_03 2
+    400362: prop_03 3
+    400364: prpo_01
+    400366: prpo_01 1
+    400368: prpo_02
+    400370: prpo_03
+    400372: qi
+    400374: qi 1
+    400376: qi 2
+    400378: qi 3
+    400380: qi 4
+    400382: qi 5
+    400384: rock
+    400386: rock_01
+    400388: rock_01 1
+    400390: rock_01 10
+    400392: rock_01 11
+    400394: rock_01 12
+    400396: rock_01 13
+    400398: rock_01 14
+    400400: rock_01 15
+    400402: rock_01 16
+    400404: rock_01 17
+    400406: rock_01 18
+    400408: rock_01 19
+    400410: rock_01 2
+    400412: rock_01 20
+    400414: rock_01 3
+    400416: rock_01 4
+    400418: rock_01 5
+    400420: rock_01 6
+    400422: rock_01 7
+    400424: rock_01 8
+    400426: rock_01 9
+    400428: rock_02
+    400430: rock_02 1
+    400432: rock_02 10
+    400434: rock_02 11
+    400436: rock_02 12
+    400438: rock_02 13
+    400440: rock_02 14
+    400442: rock_02 15
+    400444: rock_02 16
+    400446: rock_02 17
+    400448: rock_02 18
+    400450: rock_02 2
+    400452: rock_02 3
+    400454: rock_02 4
+    400456: rock_02 5
+    400458: rock_02 6
+    400460: rock_02 7
+    400462: rock_02 8
+    400464: rock_02 9
+    400466: rock_03
+    400468: rock_03 1
+    400470: rock_03 10
+    400472: rock_03 11
+    400474: rock_03 12
+    400476: rock_03 13
+    400478: rock_03 14
+    400480: rock_03 2
+    400482: rock_03 3
+    400484: rock_03 4
+    400486: rock_03 5
+    400488: rock_03 6
+    400490: rock_03 7
+    400492: rock_03 8
+    400494: rock_03 9
+    400496: rockbulid_01
+    400498: sha
+    400500: sha 1
+    400502: sha 2
+    400504: sha 3
+    400506: sha 4
+    400508: sha 5
+    400510: shu_01
+    400512: shu_01 1
+    400514: shu_01 2
+    400516: shu_02
+    400518: shu_02 1
+    400520: shu_02 2
+    400522: shuye_01
+    400524: shuye_01 1
+    400526: shuye_01 2
+    400528: shuye_01 3
+    400530: shuye_01 4
+    400532: shuye_01 5
+    400534: shuye_01 6
+    400536: shuye_01 7
+    400538: shuye_01 8
+    400540: shuye_01 9
+    400542: shuye_02
+    400544: shuye_02 1
+    400546: shuye_02 2
+    400548: shuye_02 3
+    400550: sky
+    400552: sky 1
+    400554: sky 2
+    400556: sky_01
+    400558: snow_01
+    400560: snow_01 1
+    400562: snow_01 2
+    400564: snow_01 3
+    400566: snow_01 4
+    400568: snow_01 5
+    400570: snow_02
+    400572: snow_02 1
+    400574: snow_02 2
+    400576: snow_02 3
+    400578: snow_02 4
+    400580: snow_02 5
+    400582: taijie_01
+    400584: texiao
+    400586: texiao 1
+    400588: texiao 2
+    400590: texiao 3
+    400592: texiao 4
+    400594: texiao 5
+    400596: wall_01
+    400598: wood_01
+    400600: wood_02
+    400602: xianrenzhang_01
+    400604: xianrenzhang_01 1
+    400606: xianrenzhang_01 2
+    400608: xianrenzhang_01 3
+    400610: xianrenzhang_01 4
+    400612: xianrenzhang_01 5
+    400614: yezi_01
+    400616: zhiwu
+    400618: zhiwu_01
+    400620: zhiwu_01 1
+    400622: zhiwu_01 10
+    400624: zhiwu_01 11
+    400626: zhiwu_01 2
+    400628: zhiwu_01 3
+    400630: zhiwu_01 4
+    400632: zhiwu_01 5
+    400634: zhiwu_01 6
+    400636: zhiwu_01 7
+    400638: zhiwu_01 8
+    400640: zhiwu_01 9
+    400642: zhiwu_02
+    400644: zhiwu_02 1
+    400646: zhiwu_02 2
+    400648: zhiwu_02 3
+    400650: zhiwu_02 4
+    400652: zhiwu_02 5
+    400654: zhiwu_02 6
+    400656: zhiwu_02 7
+    400658: zhiwu_03
+    400660: zhiwu_03 1
+    400662: zhiwu_03 2
+    400664: zhiwu_03 3
+    400666: zhizhuwang_01
+    400668: zhizhuwang_01 1
+    400670: zhizhuwang_01 2
+    400672: zhizhuwang_01 3
+    400674: zhizhuwang_02
+    400676: zhizhuwang_02 1
+    400678: zhizhuwang_02 2
+    400680: zhuanpan
+    400682: zhuanpan 1
+    400684: zhuanpan 10
+    400686: zhuanpan 11
+    400688: zhuanpan 12
+    400690: zhuanpan 13
+    400692: zhuanpan 2
+    400694: zhuanpan 3
+    400696: zhuanpan 4
+    400698: zhuanpan 5
+    400700: zhuanpan 6
+    400702: zhuanpan 7
+    400704: zhuanpan 8
+    400706: zhuanpan 9
+    400708: zhuanpan_01
+    400710: zhuanpan_01 1
+    400712: zhuanpan_02
+    400714: zhuanpan_02 1
+    400716: zhuwu_01
+    400718: zhuwu_01 1
+    400720: zhuwu_02
+    400722: zhuwu_02 1
+    400724: zhuzi_01
+    2300000: 1
+    2300002: 2
+    2300004: arrow1
+    2300006: bing_01
+    2300008: bing_01 1
+    2300010: bing_01 2
+    2300012: bing_01 3
+    2300014: build
+    2300016: build_01
+    2300018: build_01 1
+    2300020: build_01 2
+    2300022: build_01 3
+    2300024: build_01 4
+    2300026: build_01 5
+    2300028: build_02
+    2300030: build_02 1
+    2300032: build_03
+    2300034: c
+    2300036: caodi_01
+    2300038: ch_pc_hou_007_jiao
+    2300040: ch_pc_hou_007_shen
+    2300042: ch_pc_hou_007_shou
+    2300044: ch_pc_hou_007_tou
+    2300046: ch_pc_hu_005_jiao
+    2300048: ch_pc_hu_005_jiao 1
+    2300050: ch_pc_hu_006_jiao
+    2300052: ch_pc_hu_006_shen
+    2300054: ch_pc_hu_006_shou
+    2300056: ch_pc_hu_006_tou
+    2300058: ch_pc_niu_008_shen
+    2300060: ch_pc_niu_008_shou
+    2300062: ch_pc_niu_008_tou
+    2300064: ch_pc_niu_008_tui
+    2300066: ch_pc_tu_001_jiao
+    2300068: ch_pc_tu_001_jiao1
+    2300070: ch_pc_tu_001_shen
+    2300072: ch_pc_tu_001_shen1
+    2300074: ch_pc_tu_001_shou
+    2300076: ch_pc_tu_001_shou1
+    2300078: ch_pc_tu_001_tou
+    2300080: ch_pc_tu_001_tou1
+    2300082: ch_pc_tu_006_jiao
+    2300084: ch_pc_tu_006_shen
+    2300086: ch_pc_tu_006_shou
+    2300088: ch_pc_tu_006_tou
+    2300090: ch_we_one_hou_007
+    2300092: ch_we_one_hu_006
+    2300094: ch_we_one_tu_001
+    2300096: ch_we_one_tu_0012
+    2300098: ch_we_one_tu_006
+    2300100: ch_we_two_niu_008
+    2300102: ch_we_two_niu_008 1
+    2300104: diaoqiao_01
+    2300106: diaoxiang
+    2300108: ding_01
+    2300110: fengche_01
+    2300112: fengche_01 1
+    2300114: fengche_01 2
+    2300116: fengche_01 3
+    2300118: floor
+    2300120: floor 1
+    2300122: floor 2
+    2300124: floor 3
+    2300126: floor_01
+    2300128: floor_01 1
+    2300130: floor_01 10
+    2300132: floor_01 11
+    2300134: floor_01 12
+    2300136: floor_01 13
+    2300138: floor_01 14
+    2300140: floor_01 15
+    2300142: floor_01 16
+    2300144: floor_01 17
+    2300146: floor_01 18
+    2300148: floor_01 19
+    2300150: floor_01 2
+    2300152: floor_01 20
+    2300154: floor_01 3
+    2300156: floor_01 4
+    2300158: floor_01 5
+    2300160: floor_01 6
+    2300162: floor_01 7
+    2300164: floor_01 8
+    2300166: floor_01 9
+    2300168: floor_02
+    2300170: floor_02 1
+    2300172: floor_02 10
+    2300174: floor_02 2
+    2300176: floor_02 3
+    2300178: floor_02 4
+    2300180: floor_02 5
+    2300182: floor_02 6
+    2300184: floor_02 7
+    2300186: floor_02 8
+    2300188: floor_02 9
+    2300190: floor_03
+    2300192: floor_03 1
+    2300194: floor_03 2
+    2300196: floor_03 3
+    2300198: floor_03 4
+    2300200: floor_03 5
+    2300202: floor_03 6
+    2300204: floor_04
+    2300206: fx_hu_jn_hgqs_mian01
+    2300208: fx_hu_jn_hgqs_mian01 1
+    2300210: fx_niu_pt_attack1_mian1
+    2300212: fx_niu_pt_attack1_mian1 1
+    2300214: fx_niu_pt_attack1_mian2
+    2300216: fx_niu_pt_attack1_mian2 1
+    2300218: fx_niu_pt_attack1_mian4
+    2300220: fx_niu_pt_attack1_mian4 1
+    2300222: gu
+    2300224: gu_01
+    2300226: gu_01 1
+    2300228: huangding_01
+    2300230: pi_01
+    2300232: pi_01 1
+    2300234: pi_01 2
+    2300236: pi_01 3
+    2300238: pi_01 4
+    2300240: pi_01 5
+    2300242: polySurface1
+    2300244: polySurface1 1
+    2300246: polySurface1 2
+    2300248: polySurface1 3
+    2300250: polySurface1 4
+    2300252: polySurface1 5
+    2300254: polySurface1 6
+    2300256: polySurface6
+    2300258: polySurface6 1
+    2300260: polySurface6 10
+    2300262: polySurface6 11
+    2300264: polySurface6 12
+    2300266: polySurface6 13
+    2300268: polySurface6 14
+    2300270: polySurface6 15
+    2300272: polySurface6 16
+    2300274: polySurface6 2
+    2300276: polySurface6 3
+    2300278: polySurface6 4
+    2300280: polySurface6 5
+    2300282: polySurface6 6
+    2300284: polySurface6 7
+    2300286: polySurface6 8
+    2300288: polySurface6 9
+    2300290: polySurface722
+    2300292: polySurface722 1
+    2300294: polySurface722 2
+    2300296: polySurface722 3
+    2300298: polySurface722 4
+    2300300: polySurface722 5
+    2300302: polySurface732
+    2300304: polySurface733
+    2300306: prop
+    2300308: prop 1
+    2300310: prop_01
+    2300312: prop_01 1
+    2300314: prop_01 10
+    2300316: prop_01 11
+    2300318: prop_01 12
+    2300320: prop_01 2
+    2300322: prop_01 3
+    2300324: prop_01 4
+    2300326: prop_01 5
+    2300328: prop_01 6
+    2300330: prop_01 7
+    2300332: prop_01 8
+    2300334: prop_01 9
+    2300336: prop_02
+    2300338: prop_02 1
+    2300340: prop_02 2
+    2300342: prop_02 3
+    2300344: prop_02 4
+    2300346: prop_02 5
+    2300348: prop_02 6
+    2300350: prop_02 7
+    2300352: prop_02 8
+    2300354: prop_03
+    2300356: prop_03 1
+    2300358: prop_03 2
+    2300360: prop_03 3
+    2300362: prpo_01
+    2300364: prpo_01 1
+    2300366: prpo_02
+    2300368: prpo_03
+    2300370: qi
+    2300372: qi 1
+    2300374: qi 2
+    2300376: qi 3
+    2300378: qi 4
+    2300380: qi 5
+    2300382: rock
+    2300384: rock_01
+    2300386: rock_01 1
+    2300388: rock_01 10
+    2300390: rock_01 11
+    2300392: rock_01 12
+    2300394: rock_01 13
+    2300396: rock_01 14
+    2300398: rock_01 15
+    2300400: rock_01 16
+    2300402: rock_01 17
+    2300404: rock_01 18
+    2300406: rock_01 19
+    2300408: rock_01 2
+    2300410: rock_01 20
+    2300412: rock_01 3
+    2300414: rock_01 4
+    2300416: rock_01 5
+    2300418: rock_01 6
+    2300420: rock_01 7
+    2300422: rock_01 8
+    2300424: rock_01 9
+    2300426: rock_02
+    2300428: rock_02 1
+    2300430: rock_02 10
+    2300432: rock_02 11
+    2300434: rock_02 12
+    2300436: rock_02 13
+    2300438: rock_02 14
+    2300440: rock_02 15
+    2300442: rock_02 16
+    2300444: rock_02 17
+    2300446: rock_02 18
+    2300448: rock_02 2
+    2300450: rock_02 3
+    2300452: rock_02 4
+    2300454: rock_02 5
+    2300456: rock_02 6
+    2300458: rock_02 7
+    2300460: rock_02 8
+    2300462: rock_02 9
+    2300464: rock_03
+    2300466: rock_03 1
+    2300468: rock_03 10
+    2300470: rock_03 11
+    2300472: rock_03 12
+    2300474: rock_03 13
+    2300476: rock_03 14
+    2300478: rock_03 2
+    2300480: rock_03 3
+    2300482: rock_03 4
+    2300484: rock_03 5
+    2300486: rock_03 6
+    2300488: rock_03 7
+    2300490: rock_03 8
+    2300492: rock_03 9
+    2300494: rockbulid_01
+    2300496: sha
+    2300498: sha 1
+    2300500: sha 2
+    2300502: sha 3
+    2300504: sha 4
+    2300506: sha 5
+    2300508: shu_01
+    2300510: shu_01 1
+    2300512: shu_01 2
+    2300514: shu_02
+    2300516: shu_02 1
+    2300518: shu_02 2
+    2300520: shuye_01
+    2300522: shuye_01 1
+    2300524: shuye_01 2
+    2300526: shuye_01 3
+    2300528: shuye_01 4
+    2300530: shuye_01 5
+    2300532: shuye_01 6
+    2300534: shuye_01 7
+    2300536: shuye_01 8
+    2300538: shuye_01 9
+    2300540: shuye_02
+    2300542: shuye_02 1
+    2300544: shuye_02 2
+    2300546: shuye_02 3
+    2300548: sky
+    2300550: sky 1
+    2300552: sky 2
+    2300554: sky_01
+    2300556: snow_01
+    2300558: snow_01 1
+    2300560: snow_01 2
+    2300562: snow_01 3
+    2300564: snow_01 4
+    2300566: snow_01 5
+    2300568: snow_02
+    2300570: snow_02 1
+    2300572: snow_02 2
+    2300574: snow_02 3
+    2300576: snow_02 4
+    2300578: snow_02 5
+    2300580: taijie_01
+    2300582: texiao
+    2300584: texiao 1
+    2300586: texiao 2
+    2300588: texiao 3
+    2300590: texiao 4
+    2300592: texiao 5
+    2300594: wall_01
+    2300596: wood_01
+    2300598: wood_02
+    2300600: xianrenzhang_01
+    2300602: xianrenzhang_01 1
+    2300604: xianrenzhang_01 2
+    2300606: xianrenzhang_01 3
+    2300608: xianrenzhang_01 4
+    2300610: xianrenzhang_01 5
+    2300612: yezi_01
+    2300614: zhiwu
+    2300616: zhiwu_01
+    2300618: zhiwu_01 1
+    2300620: zhiwu_01 10
+    2300622: zhiwu_01 11
+    2300624: zhiwu_01 2
+    2300626: zhiwu_01 3
+    2300628: zhiwu_01 4
+    2300630: zhiwu_01 5
+    2300632: zhiwu_01 6
+    2300634: zhiwu_01 7
+    2300636: zhiwu_01 8
+    2300638: zhiwu_01 9
+    2300640: zhiwu_02
+    2300642: zhiwu_02 1
+    2300644: zhiwu_02 2
+    2300646: zhiwu_02 3
+    2300648: zhiwu_02 4
+    2300650: zhiwu_02 5
+    2300652: zhiwu_02 6
+    2300654: zhiwu_02 7
+    2300656: zhiwu_03
+    2300658: zhiwu_03 1
+    2300660: zhiwu_03 2
+    2300662: zhiwu_03 3
+    2300664: zhizhuwang_01
+    2300666: zhizhuwang_01 1
+    2300668: zhizhuwang_01 2
+    2300670: zhizhuwang_01 3
+    2300672: zhizhuwang_02
+    2300674: zhizhuwang_02 1
+    2300676: zhizhuwang_02 2
+    2300678: zhuanpan
+    2300680: zhuanpan 1
+    2300682: zhuanpan 10
+    2300684: zhuanpan 11
+    2300686: zhuanpan 12
+    2300688: zhuanpan 13
+    2300690: zhuanpan 2
+    2300692: zhuanpan 3
+    2300694: zhuanpan 4
+    2300696: zhuanpan 5
+    2300698: zhuanpan 6
+    2300700: zhuanpan 7
+    2300702: zhuanpan 8
+    2300704: zhuanpan 9
+    2300706: zhuanpan_01
+    2300708: zhuanpan_01 1
+    2300710: zhuanpan_02
+    2300712: zhuanpan_02 1
+    2300714: zhuwu_01
+    2300716: zhuwu_01 1
+    2300718: zhuwu_02
+    2300720: zhuwu_02 1
+    2300722: zhuzi_01
+    3300000: 1
+    3300002: 2
+    3300004: arrow1
+    3300006: bing_01
+    3300008: bing_01 1
+    3300010: bing_01 2
+    3300012: bing_01 3
+    3300014: build
+    3300016: build_01
+    3300018: build_01 1
+    3300020: build_01 2
+    3300022: build_01 3
+    3300024: build_01 4
+    3300026: build_01 5
+    3300028: build_02
+    3300030: build_02 1
+    3300032: build_03
+    3300034: c
+    3300036: caodi_01
+    3300038: ch_pc_hou_007_jiao
+    3300040: ch_pc_hou_007_shen
+    3300042: ch_pc_hou_007_shou
+    3300044: ch_pc_hou_007_tou
+    3300046: ch_pc_hu_005_jiao
+    3300048: ch_pc_hu_005_jiao 1
+    3300050: ch_pc_hu_006_jiao
+    3300052: ch_pc_hu_006_shen
+    3300054: ch_pc_hu_006_shou
+    3300056: ch_pc_hu_006_tou
+    3300058: ch_pc_niu_008_shen
+    3300060: ch_pc_niu_008_shou
+    3300062: ch_pc_niu_008_tou
+    3300064: ch_pc_niu_008_tui
+    3300066: ch_pc_tu_001_jiao
+    3300068: ch_pc_tu_001_jiao1
+    3300070: ch_pc_tu_001_shen
+    3300072: ch_pc_tu_001_shen1
+    3300074: ch_pc_tu_001_shou
+    3300076: ch_pc_tu_001_shou1
+    3300078: ch_pc_tu_001_tou
+    3300080: ch_pc_tu_001_tou1
+    3300082: ch_pc_tu_006_jiao
+    3300084: ch_pc_tu_006_shen
+    3300086: ch_pc_tu_006_shou
+    3300088: ch_pc_tu_006_tou
+    3300090: ch_we_one_hou_007
+    3300092: ch_we_one_hu_006
+    3300094: ch_we_one_tu_001
+    3300096: ch_we_one_tu_0012
+    3300098: ch_we_one_tu_006
+    3300100: ch_we_two_niu_008
+    3300102: ch_we_two_niu_008 1
+    3300104: diaoqiao_01
+    3300106: diaoxiang
+    3300108: ding_01
+    3300110: fengche_01
+    3300112: fengche_01 1
+    3300114: fengche_01 2
+    3300116: fengche_01 3
+    3300118: floor
+    3300120: floor 1
+    3300122: floor 2
+    3300124: floor 3
+    3300126: floor_01
+    3300128: floor_01 1
+    3300130: floor_01 10
+    3300132: floor_01 11
+    3300134: floor_01 12
+    3300136: floor_01 13
+    3300138: floor_01 14
+    3300140: floor_01 15
+    3300142: floor_01 16
+    3300144: floor_01 17
+    3300146: floor_01 18
+    3300148: floor_01 19
+    3300150: floor_01 2
+    3300152: floor_01 20
+    3300154: floor_01 3
+    3300156: floor_01 4
+    3300158: floor_01 5
+    3300160: floor_01 6
+    3300162: floor_01 7
+    3300164: floor_01 8
+    3300166: floor_01 9
+    3300168: floor_02
+    3300170: floor_02 1
+    3300172: floor_02 10
+    3300174: floor_02 2
+    3300176: floor_02 3
+    3300178: floor_02 4
+    3300180: floor_02 5
+    3300182: floor_02 6
+    3300184: floor_02 7
+    3300186: floor_02 8
+    3300188: floor_02 9
+    3300190: floor_03
+    3300192: floor_03 1
+    3300194: floor_03 2
+    3300196: floor_03 3
+    3300198: floor_03 4
+    3300200: floor_03 5
+    3300202: floor_03 6
+    3300204: floor_04
+    3300206: fx_hu_jn_hgqs_mian01
+    3300208: fx_hu_jn_hgqs_mian01 1
+    3300210: fx_niu_pt_attack1_mian1
+    3300212: fx_niu_pt_attack1_mian1 1
+    3300214: fx_niu_pt_attack1_mian2
+    3300216: fx_niu_pt_attack1_mian2 1
+    3300218: fx_niu_pt_attack1_mian4
+    3300220: fx_niu_pt_attack1_mian4 1
+    3300222: gu
+    3300224: gu_01
+    3300226: gu_01 1
+    3300228: huangding_01
+    3300230: pi_01
+    3300232: pi_01 1
+    3300234: pi_01 2
+    3300236: pi_01 3
+    3300238: pi_01 4
+    3300240: pi_01 5
+    3300242: polySurface1
+    3300244: polySurface1 1
+    3300246: polySurface1 2
+    3300248: polySurface1 3
+    3300250: polySurface1 4
+    3300252: polySurface1 5
+    3300254: polySurface1 6
+    3300256: polySurface6
+    3300258: polySurface6 1
+    3300260: polySurface6 10
+    3300262: polySurface6 11
+    3300264: polySurface6 12
+    3300266: polySurface6 13
+    3300268: polySurface6 14
+    3300270: polySurface6 15
+    3300272: polySurface6 16
+    3300274: polySurface6 2
+    3300276: polySurface6 3
+    3300278: polySurface6 4
+    3300280: polySurface6 5
+    3300282: polySurface6 6
+    3300284: polySurface6 7
+    3300286: polySurface6 8
+    3300288: polySurface6 9
+    3300290: polySurface722
+    3300292: polySurface722 1
+    3300294: polySurface722 2
+    3300296: polySurface722 3
+    3300298: polySurface722 4
+    3300300: polySurface722 5
+    3300302: polySurface732
+    3300304: polySurface733
+    3300306: prop
+    3300308: prop 1
+    3300310: prop_01
+    3300312: prop_01 1
+    3300314: prop_01 10
+    3300316: prop_01 11
+    3300318: prop_01 12
+    3300320: prop_01 2
+    3300322: prop_01 3
+    3300324: prop_01 4
+    3300326: prop_01 5
+    3300328: prop_01 6
+    3300330: prop_01 7
+    3300332: prop_01 8
+    3300334: prop_01 9
+    3300336: prop_02
+    3300338: prop_02 1
+    3300340: prop_02 2
+    3300342: prop_02 3
+    3300344: prop_02 4
+    3300346: prop_02 5
+    3300348: prop_02 6
+    3300350: prop_02 7
+    3300352: prop_02 8
+    3300354: prop_03
+    3300356: prop_03 1
+    3300358: prop_03 2
+    3300360: prop_03 3
+    3300362: prpo_01
+    3300364: prpo_01 1
+    3300366: prpo_02
+    3300368: prpo_03
+    3300370: qi
+    3300372: qi 1
+    3300374: qi 2
+    3300376: qi 3
+    3300378: qi 4
+    3300380: qi 5
+    3300382: rock
+    3300384: rock_01
+    3300386: rock_01 1
+    3300388: rock_01 10
+    3300390: rock_01 11
+    3300392: rock_01 12
+    3300394: rock_01 13
+    3300396: rock_01 14
+    3300398: rock_01 15
+    3300400: rock_01 16
+    3300402: rock_01 17
+    3300404: rock_01 18
+    3300406: rock_01 19
+    3300408: rock_01 2
+    3300410: rock_01 20
+    3300412: rock_01 3
+    3300414: rock_01 4
+    3300416: rock_01 5
+    3300418: rock_01 6
+    3300420: rock_01 7
+    3300422: rock_01 8
+    3300424: rock_01 9
+    3300426: rock_02
+    3300428: rock_02 1
+    3300430: rock_02 10
+    3300432: rock_02 11
+    3300434: rock_02 12
+    3300436: rock_02 13
+    3300438: rock_02 14
+    3300440: rock_02 15
+    3300442: rock_02 16
+    3300444: rock_02 17
+    3300446: rock_02 18
+    3300448: rock_02 2
+    3300450: rock_02 3
+    3300452: rock_02 4
+    3300454: rock_02 5
+    3300456: rock_02 6
+    3300458: rock_02 7
+    3300460: rock_02 8
+    3300462: rock_02 9
+    3300464: rock_03
+    3300466: rock_03 1
+    3300468: rock_03 10
+    3300470: rock_03 11
+    3300472: rock_03 12
+    3300474: rock_03 13
+    3300476: rock_03 14
+    3300478: rock_03 2
+    3300480: rock_03 3
+    3300482: rock_03 4
+    3300484: rock_03 5
+    3300486: rock_03 6
+    3300488: rock_03 7
+    3300490: rock_03 8
+    3300492: rock_03 9
+    3300494: rockbulid_01
+    3300496: sha
+    3300498: sha 1
+    3300500: sha 2
+    3300502: sha 3
+    3300504: sha 4
+    3300506: sha 5
+    3300508: shu_01
+    3300510: shu_01 1
+    3300512: shu_01 2
+    3300514: shu_02
+    3300516: shu_02 1
+    3300518: shu_02 2
+    3300520: shuye_01
+    3300522: shuye_01 1
+    3300524: shuye_01 2
+    3300526: shuye_01 3
+    3300528: shuye_01 4
+    3300530: shuye_01 5
+    3300532: shuye_01 6
+    3300534: shuye_01 7
+    3300536: shuye_01 8
+    3300538: shuye_01 9
+    3300540: shuye_02
+    3300542: shuye_02 1
+    3300544: shuye_02 2
+    3300546: shuye_02 3
+    3300548: sky
+    3300550: sky 1
+    3300552: sky 2
+    3300554: sky_01
+    3300556: snow_01
+    3300558: snow_01 1
+    3300560: snow_01 2
+    3300562: snow_01 3
+    3300564: snow_01 4
+    3300566: snow_01 5
+    3300568: snow_02
+    3300570: snow_02 1
+    3300572: snow_02 2
+    3300574: snow_02 3
+    3300576: snow_02 4
+    3300578: snow_02 5
+    3300580: taijie_01
+    3300582: texiao
+    3300584: texiao 1
+    3300586: texiao 2
+    3300588: texiao 3
+    3300590: texiao 4
+    3300592: texiao 5
+    3300594: wall_01
+    3300596: wood_01
+    3300598: wood_02
+    3300600: xianrenzhang_01
+    3300602: xianrenzhang_01 1
+    3300604: xianrenzhang_01 2
+    3300606: xianrenzhang_01 3
+    3300608: xianrenzhang_01 4
+    3300610: xianrenzhang_01 5
+    3300612: yezi_01
+    3300614: zhiwu
+    3300616: zhiwu_01
+    3300618: zhiwu_01 1
+    3300620: zhiwu_01 10
+    3300622: zhiwu_01 11
+    3300624: zhiwu_01 2
+    3300626: zhiwu_01 3
+    3300628: zhiwu_01 4
+    3300630: zhiwu_01 5
+    3300632: zhiwu_01 6
+    3300634: zhiwu_01 7
+    3300636: zhiwu_01 8
+    3300638: zhiwu_01 9
+    3300640: zhiwu_02
+    3300642: zhiwu_02 1
+    3300644: zhiwu_02 2
+    3300646: zhiwu_02 3
+    3300648: zhiwu_02 4
+    3300650: zhiwu_02 5
+    3300652: zhiwu_02 6
+    3300654: zhiwu_02 7
+    3300656: zhiwu_03
+    3300658: zhiwu_03 1
+    3300660: zhiwu_03 2
+    3300662: zhiwu_03 3
+    3300664: zhizhuwang_01
+    3300666: zhizhuwang_01 1
+    3300668: zhizhuwang_01 2
+    3300670: zhizhuwang_01 3
+    3300672: zhizhuwang_02
+    3300674: zhizhuwang_02 1
+    3300676: zhizhuwang_02 2
+    3300678: zhuanpan
+    3300680: zhuanpan 1
+    3300682: zhuanpan 10
+    3300684: zhuanpan 11
+    3300686: zhuanpan 12
+    3300688: zhuanpan 13
+    3300690: zhuanpan 2
+    3300692: zhuanpan 3
+    3300694: zhuanpan 4
+    3300696: zhuanpan 5
+    3300698: zhuanpan 6
+    3300700: zhuanpan 7
+    3300702: zhuanpan 8
+    3300704: zhuanpan 9
+    3300706: zhuanpan_01
+    3300708: zhuanpan_01 1
+    3300710: zhuanpan_02
+    3300712: zhuanpan_02 1
+    3300714: zhuwu_01
+    3300716: zhuwu_01 1
+    3300718: zhuwu_02
+    3300720: zhuwu_02 1
+    3300722: zhuzi_01
+    4300000: rock
+    4300002: prop
+    4300004: zhiwu
+    4300006: sky
+    4300008: floor
+    4300010: floor_01
+    4300012: floor_02
+    4300014: prop_01
+    4300016: shu_02
+    4300018: shuye_01
+    4300020: shu_01
+    4300022: rock_01
+    4300024: floor_03
+    4300026: rock_02
+    4300028: zhiwu_02
+    4300030: prop_02
+    4300032: zhiwu_01
+    4300034: zhiwu_03
+    4300036: rock_03
+    4300038: floor_02
+    4300040: zhiwu_03
+    4300042: shuye_01
+    4300044: rock_01
+    4300046: zhiwu_01
+    4300048: zhiwu_02
+    4300050: floor_03
+    4300052: rock_02
+    4300054: floor_01
+    4300056: zhiwu_01
+    4300058: zhuanpan_02
+    4300060: zhiwu_02
+    4300062: rock_01
+    4300064: floor_02
+    4300066: floor_01
+    4300068: prop_01
+    4300070: zhuanpan_01
+    4300072: rock_02
+    4300074: floor_03
+    4300076: zhuanpan
+    4300078: qi
+    4300080: zhuanpan
+    4300082: zhuanpan
+    4300084: qi
+    4300086: zhuanpan
+    4300088: qi
+    4300090: zhuanpan
+    4300092: zhuanpan
+    4300094: zhuanpan
+    4300096: floor_01
+    4300098: floor_02
+    4300100: prop_01
+    4300102: shu_02
+    4300104: shuye_01
+    4300106: shu_01
+    4300108: rock_01
+    4300110: floor_03
+    4300112: rock_02
+    4300114: zhiwu_02
+    4300116: prop_02
+    4300118: zhiwu_01
+    4300120: zhiwu_03
+    4300122: rock_03
+    4300124: floor_02
+    4300126: zhiwu_03
+    4300128: shuye_01
+    4300130: rock_01
+    4300132: zhiwu_01
+    4300134: zhiwu_02
+    4300136: floor_03
+    4300138: rock_02
+    4300140: floor_01
+    4300142: zhiwu_01
+    4300144: zhuanpan_02
+    4300146: zhiwu_02
+    4300148: rock_01
+    4300150: floor_02
+    4300152: floor_01
+    4300154: prop_01
+    4300156: zhuanpan_01
+    4300158: rock_02
+    4300160: floor_03
+    4300162: sky_01
+    4300164: prop_01
+    4300166: prop_02
+    4300168: floor_04
+    4300170: floor_03
+    4300172: floor_01
+    4300174: floor_02
+    4300176: 1
+    4300178: 2
+    4300180: floor
+    4300182: build_01
+    4300184: gu
+    4300186: prpo_01
+    4300188: build_02
+    4300190: zhuzi_01
+    4300192: pi_01
+    4300194: rock_03
+    4300196: floor_01
+    4300198: rock_01
+    4300200: sha
+    4300202: rock_02
+    4300204: xianrenzhang_01
+    4300206: prop_01
+    4300208: prop_02
+    4300210: build_01
+    4300212: rock_03
+    4300214: prop_03
+    4300216: rock_02
+    4300218: pi_01
+    4300220: floor
+    4300222: rock_01
+    4300224: xianrenzhang_01
+    4300226: gu_01
+    4300228: prop_02
+    4300230: prop_01
+    4300232: sha
+    4300234: rock_03
+    4300236: rock_01
+    4300238: prop_01
+    4300240: sha
+    4300242: rock_02
+    4300244: prop_03
+    4300246: floor_01
+    4300248: xianrenzhang_01
+    4300250: prop_02
+    4300252: pi_01
+    4300254: build_01
+    4300256: pi_01
+    4300258: rock_03
+    4300260: floor_01
+    4300262: rock_01
+    4300264: sha
+    4300266: rock_02
+    4300268: xianrenzhang_01
+    4300270: prop_01
+    4300272: prop_02
+    4300274: build_01
+    4300276: rock_03
+    4300278: prop_03
+    4300280: rock_02
+    4300282: pi_01
+    4300284: floor
+    4300286: rock_01
+    4300288: xianrenzhang_01
+    4300290: gu_01
+    4300292: prop_02
+    4300294: prop_01
+    4300296: sha
+    4300298: rock_03
+    4300300: rock_01
+    4300302: prop_01
+    4300304: sha
+    4300306: rock_02
+    4300308: prop_03
+    4300310: floor_01
+    4300312: xianrenzhang_01
+    4300314: prop_02
+    4300316: pi_01
+    4300318: build_01
+    4300320: wood_02
+    4300322: prpo_03
+    4300324: caodi_01
+    4300326: shu_02
+    4300328: build_02
+    4300330: shu_01
+    4300332: rock_03
+    4300334: yezi_01
+    4300336: wall_01
+    4300338: rock_02
+    4300340: wood_01
+    4300342: prpo_01
+    4300344: rockbulid_01
+    4300346: rock_01
+    4300348: taijie_01
+    4300350: ding_01
+    4300352: floor_01
+    4300354: build_03
+    4300356: build_01
+    4300358: huangding_01
+    4300360: prpo_02
+    4300362: floor_02
+    4300366: prop
+    4300370: diaoxiang
+    4300378: c
+    4300380: floor_01
+    4300384: build
+    4300386: floor_02
+    4300390: snow_01
+    4300392: rock_01
+    4300394: rock_03
+    4300398: shuye_01
+    4300400: prop_01
+    4300402: shuye_02
+    4300404: floor_01
+    4300406: rock_02
+    4300408: zhuwu_01
+    4300410: zhuwu_02
+    4300414: snow_02
+    4300416: rock_03
+    4300418: floor_01
+    4300420: shuye_01
+    4300422: rock_02
+    4300424: snow_02
+    4300426: rock_01
+    4300428: snow_01
+    4300430: bing_01
+    4300432: shuye_02
+    4300434: zhiwu_01
+    4300436: zhiwu_01
+    4300438: bing_01
+    4300440: rock_01
+    4300442: shuye_01
+    4300444: rock_03
+    4300446: snow_02
+    4300448: zhiwu_02
+    4300450: snow_01
+    4300452: floor_01
+    4300454: rock_02
+    4300456: snow_01
+    4300458: rock_01
+    4300460: rock_03
+    4300464: shuye_01
+    4300466: prop_01
+    4300468: shuye_02
+    4300470: floor_01
+    4300472: rock_02
+    4300474: zhuwu_01
+    4300476: zhuwu_02
+    4300480: snow_02
+    4300482: rock_03
+    4300486: floor_01
+    4300488: shuye_01
+    4300490: rock_02
+    4300492: snow_02
+    4300494: rock_01
+    4300496: snow_01
+    4300498: bing_01
+    4300500: shuye_02
+    4300502: zhiwu_01
+    4300504: zhiwu_01
+    4300506: bing_01
+    4300508: rock_01
+    4300510: shuye_01
+    4300512: rock_03
+    4300514: snow_02
+    4300516: zhiwu_02
+    4300518: snow_01
+    4300520: floor_01
+    4300522: rock_02
+    4300526: ch_we_one_tu_0012
+    4300528: ch_we_one_tu_001
+    4300530: arrow1
+    4300532: ch_pc_tu_001_tou1
+    4300534: ch_pc_tu_001_shou1
+    4300536: ch_pc_tu_001_shen1
+    4300538: ch_pc_tu_001_jiao1
+    4300540: ch_we_one_hou_007
+    4300542: ch_we_two_niu_008
+    4300544: ch_we_one_hu_006
+    4300546: ch_we_two_niu_008
+    4300548: ch_pc_tu_001_tou
+    4300550: ch_pc_tu_001_shou
+    4300552: ch_pc_tu_001_shen
+    4300554: ch_pc_tu_001_jiao
+    4300556: ch_we_one_tu_006
+    4300558: fx_niu_pt_attack1_mian4
+    4300560: fx_niu_pt_attack1_mian2
+    4300562: fx_niu_pt_attack1_mian1
+    4300564: fx_niu_pt_attack1_mian4
+    4300566: fx_niu_pt_attack1_mian2
+    4300568: fx_niu_pt_attack1_mian1
+    4300570: polySurface1
+    4300572: polySurface1
+    4300574: polySurface1
+    4300576: polySurface1
+    4300578: polySurface1
+    4300580: polySurface1
+    4300582: polySurface732
+    4300584: ch_pc_hu_005_jiao
+    4300586: polySurface733
+    4300588: polySurface1
+    4300590: ch_pc_hu_005_jiao
+    4300592: floor_02
+    4300594: floor_01
+    4300596: zhiwu_01
+    4300598: sky
+    4300600: rock_01
+    4300602: polySurface722
+    4300604: polySurface722
+    4300606: polySurface722
+    4300608: polySurface722
+    4300610: polySurface722
+    4300612: fengche_01
+    4300614: fengche_01
+    4300616: fengche_01
+    4300618: fengche_01
+    4300620: polySurface722
+    4300622: floor_02
+    4300624: floor_01
+    4300626: zhiwu_01
+    4300628: diaoqiao_01
+    4300630: sky
+    4300632: rock_01
+    4300634: polySurface6
+    4300636: polySurface6
+    4300638: polySurface6
+    4300640: polySurface6
+    4300642: polySurface6
+    4300644: polySurface6
+    4300646: ch_pc_niu_008_tui
+    4300648: ch_pc_niu_008_tou
+    4300650: ch_pc_niu_008_shou
+    4300652: ch_pc_niu_008_shen
+    4300654: polySurface6
+    4300656: ch_pc_tu_006_tou
+    4300658: ch_pc_tu_006_shou
+    4300660: ch_pc_tu_006_shen
+    4300662: ch_pc_tu_006_jiao
+    4300664: polySurface6
+    4300666: polySurface6
+    4300668: ch_pc_hou_007_tou
+    4300670: ch_pc_hou_007_shou
+    4300672: ch_pc_hou_007_shen
+    4300674: ch_pc_hou_007_jiao
+    4300676: polySurface6
+    4300678: polySurface6
+    4300680: polySurface6
+    4300682: polySurface6
+    4300684: polySurface6
+    4300686: ch_pc_hu_006_tou
+    4300688: ch_pc_hu_006_shou
+    4300690: ch_pc_hu_006_shen
+    4300692: ch_pc_hu_006_jiao
+    4300694: polySurface6
+    4300696: polySurface6
+    4300698: fx_hu_jn_hgqs_mian01
+    4300700: zhuanpan
+    4300702: zhuanpan
+    4300704: polySurface6
+    4300706: qi
+    4300708: fx_hu_jn_hgqs_mian01
+    4300710: zhuanpan
+    4300712: zhuanpan
+    4300714: zhuanpan
+    4300716: zhuanpan
+    4300718: qi
+    4300720: qi
+    4300722: zhuanpan
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
